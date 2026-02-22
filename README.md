@@ -1,5 +1,11 @@
-# 💫 About Me:
-## 👋 Hi, I'm Karan Singh Bhanwal<br><br>🎓 B.Tech Computer Science student (CGPA: 8.33)  <br>💻 Entry-Level Software Developer | MERN Stack Enthusiast | DSA Practitioner  <br><br>I have a strong foundation in Data Structures, Algorithms, and Object-Oriented Programming in Java.  <br>Solved 200+ DSA problems on LeetCode and GeeksforGeeks.<br><br>### 🚀 Technical Skills<br>- Languages: Java, C, JavaScript, SQL<br>- Frontend: HTML5, CSS3, React.js, Tailwind CSS<br>- Backend: Node.js, Express.js, REST APIs<br>- Database: MongoDB, MySQL<br>- CS Fundamentals: OOP, DBMS, OS, Computer Networks<br>- Tools: Git, GitHub, VS Code, Vercel, Netlify<br><br>### 📌 Projects<br>🔹 **TaskFlow** – Role-Based Employee Task Management System  <br>🔹 **Streaks** – Full-Stack MERN Habit Tracker with JWT Authentication  <br>🔹 **AlgoVista** – Interactive Algorithm Visualization Tool  <br><br>### 🎯 Currently Focused On<br>- Strengthening DSA for product-based company interviews  <br>- Building scalable full-stack applications  <br>- Writing clean, maintainable code  <br><br>Open to Software Development and Backend Engineering opportunities.
+
+B.Tech CSE student passionate about Software Development and Problem Solving.
+
+• 200+ DSA problems solved  
+• MERN Stack Developer  
+• Strong in Java, OOP, DBMS, OS, CN  
+
+Focused on building scalable applications and improving algorithmic thinking.
 
 
 ## 🌐 Socials:
